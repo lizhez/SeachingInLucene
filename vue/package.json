@@ -1,0 +1,32 @@
+{
+  "name": "mysearching",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "axios": "^1.1.3",
+    "core-js": "^3.6.5",
+    "element-plus": "^2.2.17",
+    "v-highlight-component": "^0.2.5",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0",
+    "vue3-highlight": "^0.2.6",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/compiler-sfc": "^3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
